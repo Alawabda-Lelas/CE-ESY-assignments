@@ -1,4 +1,0 @@
-Info: Output directory 'C:\Users\Lelas Al-Awabda\Desktop\homework2\Lab_assignment1' created.
-Plotted to 'C:\Users\Lelas Al-Awabda\Desktop\homework2\Lab_assignment1\homework2.pdf'.
-
-Info: Done.
